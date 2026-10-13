@@ -1,10 +1,6 @@
 # Kobra Protekt — Windows
 
-Portage Windows de votre application KobraProtekt (Android), avec le nouveau
-logo **Kobra Protekt** (lettrage espacé) et une interface de type **HUD de
-visée**. L'application recherche les logiciels espions et programmes
-malveillants, les fait « passer dans la cible » à la détection, puis propose
-leur mise en quarantaine ou leur suppression.
+
 
 ![Aperçu de l'interface](assets/apercu_interface.png)
 
